@@ -73,6 +73,8 @@ target/
 # pyenv
 .python-version
 
+# Every sass folder / file
+/sass/*
 # celery beat schedule file
 celerybeat-schedule
 
